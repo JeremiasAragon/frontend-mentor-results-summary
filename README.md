@@ -20,7 +20,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [Results summary component - Netlify](https://qr-challenge-fm.netlify.app/)
+- Live Site URL: [Results summary component - Netlify](https://results-summary-component-jeremias.netlify.app/)
 
 ## My process
 
